@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: AlienLeague.h
-Description: AlienLeague font for DisplayCore
+Description: AlienLeague
